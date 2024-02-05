@@ -1,5 +1,10 @@
 # Local-Security-App
 
+![WhatsApp Image 2024-02-05 at 13 55 15](https://github.com/Himani2615/Local-Security-App/assets/143219485/be08b453-14ed-42cd-953d-218d102d7cef)
+![Screenshot (123)](https://github.com/Himani2615/Local-Security-App/assets/143219485/0c034c78-9cc3-49e0-a397-990998f8eab2)
+
+
+
 The public safety app represents a groundbreaking shift in how individuals interact with and enhance community well-being. Its diverse features go beyond traditional safety measures, revolutionizing user engagement.
 
 The app provides real-time safety information through a dynamic feed of local news and alerts, ensuring users stay informed and can make safer decisions based on current conditions. The simplified crime reporting feature encourages inclusivity and swift law enforcement response, fostering community engagement.
